@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="NormalTheme" parent="android:Theme.Material.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="NormalThemeFullScreen" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="redGreyTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorControlActivated">@color/primary_red</item>
+        <item name="android:colorControlNormal">@color/primary_blue_grey</item>
+        <item name="android:colorBackground">@color/secondary_blue_grey</item>
+        <item name="android:colorForeground">@color/dark_blue_grey</item>
+        <item name="android:colorPrimaryDark">@color/dark_blue_grey</item>
+        <item name="android:colorPrimary">@color/primary_red</item>
+        <item name="android:colorControlHighlight">@color/secondary_green</item>
+    </style>
+
+    <style name="redGreyThemeFullScreen" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/primary_blue_grey</item>
+    </style>
+
+    <style name="greenOrangeTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorControlActivated">@color/primary_green</item>
+        <item name="android:colorControlNormal">@color/primary_orange</item>
+        <item name="android:colorBackground">@color/secondary_orange</item>
+        <item name="android:colorForeground">@color/dark_orange</item>
+        <item name="android:colorPrimaryDark">@color/dark_orange</item>
+        <item name="android:colorPrimary">@color/primary_green</item>
+        <item name="android:colorControlHighlight">@color/secondary_pink</item>
+    </style>
+
+    <style name="greenOrangeThemeFullScreen" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/primary_orange</item>
+    </style>
+
+    <style name="pinkBlueTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorControlActivated">@color/primary_pink</item>
+        <item name="android:colorControlNormal">@color/primary_blue</item>
+        <item name="android:colorBackground">@color/secondary_indigo</item>
+        <item name="android:colorForeground">@color/dark_indigo</item>
+        <item name="android:colorPrimaryDark">@color/dark_indigo</item>
+        <item name="android:colorPrimary">@color/primary_pink</item>
+        <item name="android:colorControlHighlight">@color/secondary_blue</item>
+    </style>
+
+    <style name="pinkBlueThemeFullScreen" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/primary_indigo</item>
+    </style>
+
+</resources>

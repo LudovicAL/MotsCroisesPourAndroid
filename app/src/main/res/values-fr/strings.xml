@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mots croisés</string>
+    <string name="action_settings">Options</string>
+    <string name="answer">Révéler</string>
+    <string name="backspace">Effacer</string>
+    <string name="checkErrors">Vérifier</string>
+    <string name="close">Fermer</string>
+    <string name="delete">Supprimer</string>
+    <string name="hint">Indice</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+    <string name="skipFilled">Sauter les cellules déjà remplies</string>
+    <string name="skipSingleLetter">Sauter les mots d\'une seule lettre</string>
+    <string name="vertical">Vertical</string>
+    <string name="victoryMessage">Vous avez rempli la grille avec succès.</string>
+    <string name="victoryTitle">Victoire!</string>
+    <string name="answerOption">Révéler les mots entiers </string>
+    <string name="checkErrorOption">Vérifier la grille entière lors de la vérification des erreurs</string>
+    <string name="beAdvised">Attention</string>
+    <string name="themeChanged">Le changement de palette de couleur ne prendra pleinement effet qu\'après un redémarrage de l\'application.</string>
+    <string name="dullTheme">Couleurs ennuyeuses</string>
+    <string name="greenOrangeTheme">Vert et orange</string>
+    <string name="pinkBlueTheme">Rose et bleu</string>
+    <string name="redGreyTheme">Rouge et gris</string>
+    <string name="colorTheme">Palette de couleurs</string>
+    <string name="simplifiedView">Vue simplifiée</string>
+</resources>

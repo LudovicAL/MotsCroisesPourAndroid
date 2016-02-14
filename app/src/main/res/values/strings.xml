@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CrossWord</string>
+    <string name="action_settings">Settings</string>
+    <string name="alertDialogBouton" translatable="false">Yay!</string>
+    <string name="victoryTitle">Victory!</string>
+    <string name="victoryMessage">You competed the grid successfully.</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="backspace">Backspace</string>
+    <string name="skipFilled">Skip already filled cells</string>
+    <string name="skipSingleLetter">Skip single letter words</string>
+    <string name="checkErrors">Check errors</string>
+    <string name="hint">Hint</string>
+    <string name="answer">Reveal answer</string>
+    <string name="answerOption">Reveal whole words when revealing answers</string>
+    <string name="checkErrorOption">Check whole grid when checking errors</string>
+    <string name="redGreyTheme">Red and grey</string>
+    <string name="greenOrangeTheme">Green and orange</string>
+    <string name="pinkBlueTheme">Pink and blue</string>
+    <string name="dullTheme">Dull</string>
+    <string name="beAdvised">Please take notice</string>
+    <string name="colorTheme">Color theme</string>
+    <string name="simplifiedView">Simplified view</string>
+    <string name="themeChanged">The theme change will only take full effect on subsequent launches of the application.</string>
+    <string name="a" translatable="false">A</string>
+    <string name="b" translatable="false">B</string>
+    <string name="c" translatable="false">C</string>
+    <string name="d" translatable="false">D</string>
+    <string name="e" translatable="false">E</string>
+    <string name="f" translatable="false">F</string>
+    <string name="g" translatable="false">G</string>
+    <string name="h" translatable="false">H</string>
+    <string name="i" translatable="false">I</string>
+    <string name="j" translatable="false">J</string>
+    <string name="k" translatable="false">K</string>
+    <string name="l" translatable="false">L</string>
+    <string name="m" translatable="false">M</string>
+    <string name="n" translatable="false">N</string>
+    <string name="o" translatable="false">O</string>
+    <string name="p" translatable="false">P</string>
+    <string name="q" translatable="false">Q</string>
+    <string name="r" translatable="false">R</string>
+    <string name="s" translatable="false">S</string>
+    <string name="t" translatable="false">T</string>
+    <string name="u" translatable="false">U</string>
+    <string name="v" translatable="false">V</string>
+    <string name="w" translatable="false">W</string>
+    <string name="x" translatable="false">X</string>
+    <string name="y" translatable="false">Y</string>
+    <string name="z" translatable="false">Z</string>
+</resources>

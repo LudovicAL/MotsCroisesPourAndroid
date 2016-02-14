@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OptionsActivity"
+    android:id="@+id/closeButtonOption"
+    android:onClick="fermetureOptions">
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/skipFilled"
+        android:id="@+id/skipFilledSwitch"
+        android:padding="10sp"
+        android:checked="true"
+        android:textSize="20sp" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/skipSingleLetter"
+        android:id="@+id/skipSingleLetterSwitch"
+        android:padding="10sp"
+        android:checked="true"
+        android:textSize="20sp"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/checkErrorOption"
+        android:id="@+id/checkErrorsSwitch"
+        android:padding="10sp"
+        android:checked="true"
+        android:textSize="20sp"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answerOption"
+        android:id="@+id/revealAnswerSwitch"
+        android:padding="10sp"
+        android:checked="true"
+        android:textSize="20sp"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/colorTheme"
+            android:id="@+id/textView"
+            android:gravity="center_horizontal"
+            android:textAlignment="gravity"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/redGreyTheme"
+            android:id="@+id/radioButtonTheme1"
+            android:checked="true"
+            android:padding="5sp"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/greenOrangeTheme"
+            android:id="@+id/radioButtonTheme2"
+            android:padding="5sp"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pinkBlueTheme"
+            android:id="@+id/radioButtonTheme3"
+            android:padding="5sp"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dullTheme"
+            android:id="@+id/radioButtonTheme4"
+            android:padding="5sp"
+            android:textSize="20sp" />
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/close"
+        android:id="@+id/closeOptionsButton"
+        android:onClick="fermetureOptions" />
+
+</LinearLayout>

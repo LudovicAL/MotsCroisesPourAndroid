@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_indigo">#3F51B5</color>
+    <color name="secondary_indigo">#C5CAE9</color>
+    <color name="dark_indigo">#303F9F</color>
+
+    <color name="primary_pink">#FF4081</color>
+    <color name="secondary_pink">#FF80AB</color>
+    <color name="dark_pink">#F50057</color>
+
+    <color name="primary_blue_grey">#607D8B</color>
+    <color name="secondary_blue_grey">#ECEFF1</color>
+    <color name="dark_blue_grey">#455A64</color>
+
+    <color name="primary_orange">#FF9800</color>
+    <color name="secondary_orange">#FFF3E0</color>
+    <color name="dark_orange">#F57C00</color>
+
+    <color name="primary_green">#8BC34A</color>
+    <color name="secondary_green">#F1F8E9</color>
+    <color name="dark_green">#689F38</color>
+
+    <color name="primary_blue">#03A9F4</color>
+    <color name="secondary_blue">#E1F5Fe</color>
+    <color name="dark_blue">#0288D1</color>
+
+    <color name="primary_red">#F44336</color>
+    <color name="secondary_red">#FFEBEE</color>
+    <color name="dark_red">#D32F2F</color>
+</resources>
